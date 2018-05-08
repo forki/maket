@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net46</TargetFramework>
+    <TargetFramework>net471</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -9,6 +9,5 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="EntityFramework" />
   </ItemGroup>
 </Project>

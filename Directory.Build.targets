@@ -1,8 +1,8 @@
 <Project>
 
   <ItemGroup>
-    <PackageReference Update="Newtonsoft.Json" Version="10.0.1"/>
-    <PackageReference Update="EntityFramework" Version="6.1.2"/>
+    <PackageReference Update="Fable.Elmish" Version="1.0.2"/>
+    <PackageReference Update="FSharp.Core" Version="4.2.3"/>
   </ItemGroup>
 
 </Project>
