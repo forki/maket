@@ -5,4 +5,8 @@
     <PackageReference Update="FSharp.Core" Version="4.2.3"/>
   </ItemGroup>
 
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU1603;NU1604;NU1605</NoWarn>
+  </PropertyGroup>
+
 </Project>
